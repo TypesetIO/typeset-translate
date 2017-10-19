@@ -1,0 +1,131 @@
+{
+  "add-refs": {
+    "en": "Add references"
+  },
+  "occurrences-in-article": {
+    "en": "Occurrences in article"
+  },
+  "sidebar-tab:references": {
+    "en": "References"
+  },
+  "citing-made-easy": {
+    "en": "Citing made simple"
+  },
+  "cite-empty-state-copy": {
+    "en": "Cite your references in a click. You can start by importing your references or by adding references manually."
+  },
+  "figure-cite-empty-state-copy": {
+    "en": "Cite your figures in a click. Get all your cross-references in correct format and order. You can start by adding figures using the “Insert” option in the toolbar."
+  },
+  "figure-cite-empty-state-copy2": {
+    "en": "Once created, your figures appear here as a list, which you can then cite easily."
+  },
+  "formula-cite-empty-state-copy": {
+    "en": "Add formulae or equations using the 'Insert' menu and they will be available to cite here."
+  },
+  "table-wrap-cite-empty-state-copy": {
+    "en": "Cite your tables in a click. Get all your cross-references in correct format and order. You can start by creating tables using the “Insert” option in the toolbar."
+  },
+  "table-wrap-cite-empty-state-copy2": {
+    "en": "Once created, your tables appear here as a list, which you can then cite easily."
+  },
+  "add-references-sidebar": {
+    "en": "Import/Add References"
+  },
+  "edit-reference": {
+    "en": "Edit reference"
+  },
+  "new-ref-details": {
+    "en": "Add new reference"
+  },
+  "add-author": {
+    "en": "Add author"
+  },
+  "uploading-references": {
+    "en": "Your reference(s) are getting added. Meanwhile, you can continue to edit your document. You will be notified here when the import is complete. "
+  },
+  "uploading-references-failure": {
+    "en": "Uploading references failed. We only support .bib and endnote xml format. Please, try again."
+  },
+  "uploading-references-success": {
+    "en": "References successfully updated"
+  },
+  "journal-meta-template:change": {
+    "en": "Change format",
+    "te": "ఫార్మాట్ మార్చండి"
+  },
+  "journal-meta-template:change-short": {
+    "en": "Change format",
+    "te": "ఫార్మాట్ మార్చండి"
+  },
+  "journal-meta-template:guidelines": {
+    "en": "Guidelines"
+  },
+  "keywords:label": {
+    "en": "Keywords",
+    "te": "ముఖ్యమైన పదాలు"
+  },
+  "kwd-group.content": {
+    "en": "Keywords",
+    "te": "ముఖ్యమైన పదాలు"
+  },
+  "new_keyword_empty_label": {
+    "en": "Add new keyword...",
+    "te": "క్రొత్త పదాన్ని జోడించు ..."
+  },
+  "new_keyword_content_label": {
+    "en": "Press Enter to Add",
+    "te": "జోడించుటకు Enter నొక్కండి"
+  },
+  "meta-value.textContent": {
+    "en": "Text",
+    "te": "టెక్స్ట్"
+  },
+  "select-sidebar:ref": {
+    "en": "References"
+  },
+  "select-sidebar:figure": {
+    "en": "Figures",
+    "te": "గణాంకాలు"
+  },
+  "select-sidebar:table-wrap": {
+    "en": "Tables"
+  },
+  "pub-date.year": {
+    "en": "Text"
+  },
+  "pub-date.month": {
+    "en": "Text"
+  },
+  "disp-formula-group.content": {
+    "en": "Formula"
+  },
+  "sidebar-tab:insert-math": {
+    "en": "Insert Math"
+  },
+  "formula-sidebar:latex-editor": {
+    "en": "LaTeX"
+  },
+  "formula-sidebar:wiris-editor": {
+    "en": "Visual"
+  },
+  "formula-sidebar:insert-latex-code": {
+    "en": "Insert LaTeX Code"
+  },
+  "formula-sidebar:supports-ams-latex": {
+    "en": "(supports AMS-LaTeX)"
+  },
+  "formula-sidebar:preview": {
+    "en": "Preview"
+  },
+  "sidebar-tab:index": {
+    "en": "Manuscript Details",
+    "te": "మాన్యుస్క్రిప్ట్ వివరాలు"
+  },
+  "sidebar-tab:docInfo": {
+    "en": "Document Information"
+  },
+  "select-section-text": {
+    "en": "Below sections are suggested by the journal. Click to add"
+  }
+}

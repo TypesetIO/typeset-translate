@@ -1,0 +1,61 @@
+{
+  "status:disconnected": {
+    "en": "Disconnected",
+    "te": "డిస్కనెక్ట్ అయింది"
+  },
+  "status:reconnected": {
+    "en": "Re-connected",
+    "te": "మళ్లీ కనెక్ట్ అయింది"
+  },
+  "status:saving": {
+    "en": "Saving...",
+    "te": "సేవ్  అవుతోంది"
+  },
+  "status:saved": {
+    "en": "Auto-Saved",
+    "te": "సేవ్ అయింది"
+  },
+  "status:save-error": {
+    "en": "Couldn't save",
+    "te": "సేవ్ చేయలేకపోయాము"
+  },
+  "status:recovered": {
+    "en": "Recovered"
+  },
+  "status:already-saved": {
+    "en": "Saved",
+    "te": "సేవ్ అయింది"
+  },
+  "is-editing-right-now": {
+    "en": "is editing this document at the moment. Request access by clicking the profile picture on the top right.",
+    "te": "ప్రస్తుతానికి ఈ పత్రాన్ని సవరిస్తున్నారు. ఎగువ కుడివైపు ఉన్న ప్రొఫైల్ చిత్రాన్ని క్లిక్ చేయడం ద్వారా ప్రాప్యతను అభ్యర్థించండి."
+  },
+  "control::ignored-message": {
+    "en": "<ignorer-name> has not responded to your request. Try again later",
+    "te": "<ignorer-name> మీ అభ్యర్థనకు ప్రతిస్పందించలేదు. తరువాత మళ్ళీ ప్రయత్నించండి"
+  },
+  "control::rejected-message": {
+    "en": "<rejecter-name> has cancelled your request. Please try again later",
+    "te": "<rejecter-name> మీ అభ్యర్థన తిరస్కరించబడింది. తరువాత మళ్ళీ ప్రయత్నించండి"
+  },
+  "control::idle-title": {
+    "en": "<rejecter-name> may be idle",
+    "te": "<rejecter-name> షను నిష్క్రియంగా ఉన్నట్లు ఉన్నాడు"
+  },
+  "control::idle-message": {
+    "en": "If there is no response in 60 seconds, we’ll automatically grant you control",
+    "te": "60 సెకన్లలో స్పందన లేనట్లయితే, మేము స్వయంచాలకంగా మీకు నియంత్రణను మంజూరు చేస్తాము"
+  },
+  "you-editing-right-now": {
+    "en": "You are editing this document in some other tab. Refresh to edit here."
+  },
+  "only-you-right-now": {
+    "en": "Oops, only you are online at the moment."
+  },
+  "give-control": {
+    "en": "Give control"
+  },
+  "went-offline": {
+    "en": "went offline. Click on the\"take control\" button to start editing the document"
+  }
+}

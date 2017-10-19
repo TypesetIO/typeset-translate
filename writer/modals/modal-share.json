@@ -1,0 +1,29 @@
+{
+  "modal::share::title": {
+    "en": "You are collaborating with",
+    "te": "మీరు కింద ఉన్న వాళ్లతో పని చెయ్యబోతున్నారు"
+  },
+  "modal::share::submit": {
+    "en": "Ok",
+    "te": "మసరే "
+  },
+  "modal::share::give_control": {
+    "en": "<user-name> granted you control. You can now edit the document",
+    "te": "<user-name> మీకు నియంత్రణను మంజూరు చేసింది. మీరు ఇప్పుడు పత్రాన్ని సవరించవచ్చు"
+  },
+  "auth-delete-confirm": {
+    "en": " will no longer have access to this document. Are you sure?"
+  },
+  "not-joined-invite-text": {
+    "en": "Doc shared, yet to be viewed"
+  },
+    "share-input": {
+    "en": "Enter emails to provide edit access"
+  },
+  "share-existing-header": {
+    "en": "Accessed by"
+  },
+  "share-btn-label": {
+    "en": "Done"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "add-references": {
+    "en": "Add References"
+  },
+  "save-references": {
+    "en": "Save changes"
+  },
+  "upload-new": {
+    "en": "Import from Mendeley/ Zotero"
+  },
+  "save-ref": {
+    "en": "Save"
+  },
+  "paste-bibtex": {
+    "en": "Paste BibTeX"
+  },
+  "add-manually": {
+    "en": "Add manually"
+  },
+  "author-placeholder": {
+    "en": "Author names"
+  },
+  "bibtex-placeholder": {
+    "en": "Just copy your BibTeX code and paste it here. Your reference will be added in seconds!"
+  },
+  "upload-new-title": {
+    "en": "Migrate all your references in a click"
+  },
+  "upload-new-title-2": {
+    "en": "(.bib and .xml supported)"
+  },
+  "select-files-to-upload": {
+    "en": "Upload .bib or .xml file"
+  },
+  "upload-new-para-1": {
+    "en": "Do you use any reference management software? "
+  },
+  "upload-library-help-link": {
+    "en": "Learn How to Migrate"
+  },
+  "upload-new-para-2": {
+    "en": " "
+  },
+  "upload-bibtex": {
+    "en": "Add References"
+  }
+}

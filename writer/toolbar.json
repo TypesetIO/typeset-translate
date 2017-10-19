@@ -1,0 +1,118 @@
+{
+  "article-title": {
+    "en": "Article title"
+  },
+  "title1": {
+    "en": "Heading",
+    "te": "శీర్షిక"
+  },
+  "title2": {
+    "en": "Sub-heading 1",
+    "te": "ఉపశీర్షిక 1"
+  },
+  "title3": {
+    "en": "Sub-heading 2",
+    "te": "ఉపశీర్షిక 2"
+  },
+  "title4": {
+    "en": "Sub-heading 3",
+    "te": "ఉపశీర్షిక 3"
+  },
+  "title5": {
+    "en": "Sub-heading 4",
+    "te": "ఉపశీర్షిక 4"
+  },
+  "title6": {
+    "en": "Sub-heading 5"
+  },
+  "title.content": {
+    "en": "Title",
+    "te": "శీర్షిక"
+  },
+  "xrefs:toolbar": {
+    "en": "Cite",
+    "te": "సైట్"
+  },
+  "xrefs:ref": {
+    "en": "References",
+    "te": "ప్రస్తావనలు"
+  },
+  "xrefs:figure": {
+    "en": "Figures",
+    "te": "గణాంకాలు"
+  },
+  "xrefs:table": {
+    "en": "Tables"
+  },
+  "paragraph": {
+    "en": "Paragraph",
+    "te": "పరిచ్చేదము"
+  },
+  "paragraph.content": {
+    "en": "Paragraph",
+    "te": "పరిచ్చేదము"
+  },
+  "list-item-ul": {
+    "en": "Unordered List",
+    "de": "Ungeordnete Liste"
+  },
+  "list-item-ol": {
+    "en": "Ordered List",
+    "de": "Geordnete Liste"
+  },
+  "insert:footnote": {
+    "en": "ootnote"
+  },
+  "fn:empty": {
+    "en": "Click to edit footnote"
+  },
+  "fn:heading": {
+    "en": "footnotes"
+  },
+  "table-cell.content": {
+    "en": "Table cell"
+  },
+  "insert-row-above": {
+    "en": "Insert row above"
+  },
+  "insert-row-below": {
+    "en": "Insert row below"
+  },
+  "insert-col-left": {
+    "en": "Insert column left"
+  },
+  "insert-col-right": {
+    "en": "Insert column right"
+  },
+  "delete-row": {
+    "en": "Delete Row"
+  },
+  "delete-col": {
+    "en": "Delete Column"
+  },
+  "delete-table": {
+    "en": "Delete Table"
+  },
+  "insert:table": {
+    "en": "Table"
+  },
+  "insert:equation": {
+    "en": "Equation"
+  },
+  "insert:inline-equation": {
+    "en": "Inline"
+  },
+  "insert:block-equation": {
+    "en": "Standalone"
+  },
+  "disp-formula.content": {
+    "en": "Formula"
+  },
+  "formula:update-equation": {
+    "en": "Update Equation"
+  },
+  "insert:graphic": {
+    "en": "Figure",
+    "te": "గణాంకం"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "export-title-download": {
+    "en": "Choose a file format to download"
+  },
+  "export-title-buy": {
+    "en": "Precisely formatted for Journal submission"
+  },
+  "export-subtitle-buy": {
+    "en": "Unlock this premium Journal Format to download without any limits"
+  },
+  "export_title_tex": {
+    "en": "LaTeX file"
+  },
+  "export_description_tex": {
+    "en": "Your formatted document as a LaTeX file"
+  },
+  "export_title_pdf": {
+    "en": "PDF file"
+  },
+  "export_description_pdf": {
+    "en": "Your formatted document as a PDF "
+  },
+  "export_title_docx": {
+    "en": "DocX file"
+  },
+  "export_description_docx": {
+    "en": "Your formatted document as a Docx file"
+  },
+  "export_title_zip": {
+    "en": "ZIP file"
+  },
+  "export_description_zip": {
+    "en": "Your LaTeX file, Docx file, PDF, Bibliography file and image directory compressed into a single Zip file."
+  },
+  "export_download": {
+    "en": "Click to Download",
+    "te": "డౌన్లోడ్ కొరకు క్లిక్ చెయ్యండి"
+  },
+  "export_buy_format": {
+    "en": "Pay to Unlock this Format"
+  },
+  "export-modal::upgrade-to-advance": {
+    "en": "Upgrade to download",
+    "te": "డౌన్లోడ్ చేయటానికి అప్గ్రేడ్ అవ్వండి"
+  },
+  "export_word_warning": {
+    "en": "As a Basic plan user, you can download only up to 1000 words. Choose one of our paid plans to download the entire document"
+  },
+  "export_modal::premium_format_access": {
+    "en": "To download documents using Journal formats, you will need to be part of Advanced plan. Subscribe to download the document"
+  },
+  "export_count_warning": {
+    "en": "Only <available_count> exports remaining! To get access to unlimited downloads, upgrade to pro plan"
+  },
+  "export_count_error": {
+    "en": "You cannot export document anymore. To get access to unlimited downloads, upgrade to pro plan"
+  },
+  "export_format_expiring": {
+    "en": "<format-id> format is expiring in <days-left> days.Buy format for uninterrupted usage"
+  },
+  "export_format_expired": {
+    "en": "<format-id> format expired on <date>. Buy this format now for uninterrupted usage"
+  },
+  "export_upgrade_button": {
+    "en": "Upgrade now",
+    "te": "ఇప్పుడే అప్గ్రేడ్ చేయండి"
+  },
+  "export_format_purchase_success": {
+    "en": "Congratulations! You have just purchased <format-id>. Now you can download document in any type for free."
+  },
+  "export_plan_purchase_success": {
+    "en": "Congratulations! You have just upgraded."
+  },
+  "export_format_price": {
+    "en": "for 12 months. Pay now to download your Journal Compliant document, no limits. "
+  }
+}

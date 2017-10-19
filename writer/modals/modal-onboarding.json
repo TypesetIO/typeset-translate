@@ -1,0 +1,61 @@
+{
+  "modal::welcome::title": {
+    "en": "Welcome on board, <first-name>.",
+    "te": "టైప్సేట్ కి స్వాగతం <first-name>"
+  },
+  "modal::welcome::para-1": {
+    "en": "Any journal in the world, just a click away. Get rid of formatting once for all. To help you do that we need to ask a few questions.",
+    "te": "ప్రపంచంలోని ఏదైనా పత్రిక, ఒక క్లిక్ దూరంగా. అన్నింటికీ ఆకృతీకరణను వదిలించండి. మీకు సహాయపడటానికి కొన్ని ప్రశ్నలు అడగబోతున్నం."
+  },
+  "modal::welcome::next": {
+    "en": "Get started",
+    "te": "ప్రారంభించడానికి"
+  },
+  "modal::submission::title": {
+    "en": "When is your submission due…",
+    "te": "మీ సమర్పణ ఎప్పుడు జరుగుతుంది ..."
+  },
+  "modal::submission::option-1": {
+    "en": "Less than a month",
+    "te": "ఒక నెల కన్నా తక్కువ"
+  },
+  "modal::submission::option-2": {
+    "en": "More than a month",
+    "te": "ఒక నెల కన్నా ఎక్కువ"
+  },
+  "modal::submission::option-3": {
+    "en": "No deadline",
+    "te": "గడువు లేదు"
+  },
+  "modal::submission::option-4": {
+    "en": "Not working on a paper currently",
+    "te": "ప్రస్తుతం కఅధికరణంపై పనిచేయడం లేదు"
+  },
+  "modal::submission::good-job::title": {
+    "en": "Good job"
+  },
+  "modal::submission::good-job::para": {
+    "en": "You have already made some progress",
+    "te": "మీరు ఇప్పటికే కొంత పురోగతి చేశారు"
+  },
+  "modal::submission::good-job::next": {
+    "en": "Learn how Typeset works",
+    "te": "టైప్సేట్ ఎలా పనిచేస్తుందో తెలుసుకోండి"
+  },
+  "modal::select-format::title": {
+    "en": "Create a demo document",
+    "te": "ఒక డెమో పత్రాన్ని సృష్టించండి"
+  },
+  "modal::change-format::title": {
+    "en": "Change format",
+    "te": "ఫార్మాట్ మార్చండి"
+  },
+  "modal::change-format::subtitle-1": {
+    "en": "Select a format from the following.",
+    "te": "క్రింది నుండి ఒక ఫార్మాట్ ఎంచుకోండి."
+  },
+  "onboarding::progress::title": {
+    "en": "Progress",
+    "te": "పురోగతి"
+  }
+}

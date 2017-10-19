@@ -1,0 +1,46 @@
+{
+  "click-to-add-article-title": {
+    "en": "Name your manuscript",
+    "te": "మీ మాన్యుస్క్రిప్ట్కు పేరు పెట్టండి"
+  },
+  "click-to-add-title": {
+    "en": "Click here to add a title",
+    "te": "శీర్షికను జోడించడానికి ఇక్కడ క్లిక్ చేయండి"
+  },
+  "addCaption": {
+    "en": "Add caption"
+  },
+  "figure-caption:title-placeholder": {
+    "en": "Add a descriptive title for the figure"
+  },
+  "download:heading": {
+    "en": "Download document"
+  },
+  "download:message": {
+    "en": "You can download this document in any of these formats"
+  },
+  "formula:refer-later": {
+    "en": "Refer this equation later?"
+  },
+  "block-formula-placeholder": {
+    "en": "Write any expression you can imagine. The editor has already handled complex equations in mathematics, physics, chemistry, statistics and biology. See below an expression written on the editor within seconds"
+  },
+  "inline-formula-placeholder": {
+    "en": "Click here to add an equation."
+  },
+  "preview_loading_text": {
+    "en": "Our Universal Manuscript Builder® is formatting your doc to “<publisher> – <journalName>” guidelines. You can continue writing and will be notified on completion"
+  },
+  "notifications-appear-here": {
+    "en": "You will see notifications appear here when you upload or download files."
+  },
+  "empty-paragraph-text": {
+    "en": "Write freely without any constraints. Whenever you want the content formatted, apply any template using the\"Change Template\" option below the toolbar. The toolbar allows you to easily add a section/subsection, quickly insert figures/equations/tables and cite them all in a click. References tab on the sidebar makes adding or importing your references really simple. Click here to start writing"
+  },
+  "signup-welcome": {
+    "en": " wants to collaborate with you on this paper."
+  },
+  "mobile-info": {
+    "en": "Please access Typeset from a desktop device."
+  }
+}
